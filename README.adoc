@@ -1,0 +1,18 @@
+= Java Code Styles
+
+IntelliJ IDEA code style settings for Rogue's Dev Java and Android projects.
+These are based off of Square's code styles. Why re-invent the wheel when
+the best minds out there have already done the work for us.
+
+
+== Installation
+
+ * On Unix, run the `install.sh` script. Windows users should use `install.bat` instead.
+ * Restart IntelliJ if it's running.
+ * Open IntelliJ Project Settings -> Code Styles, change the code style for the
+   project to the one you want.
+
+
+= License
+
+image::https://licensebuttons.net/p/zero/1.0/88x31.png[Public Domain, link="https://creativecommons.org/publicdomain/zero/1.0/legalcode"]
